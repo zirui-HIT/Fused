@@ -1,0 +1,8 @@
+{
+    "ignore_too_long": false,
+    "batch_size": 4,
+    "temperature": 0.3,
+    "max_tokens": 256,
+    "top_p": 1,
+    "n": 8
+}

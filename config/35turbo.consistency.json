@@ -1,0 +1,9 @@
+{
+    "temperature": 0.3,
+    "max_tokens": 256,
+    "top_p": 1,
+    "n": 20,
+    "stop": ["\n\n"],
+    "timeout": 15,
+    "parallel": true
+}
